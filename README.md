@@ -1,0 +1,2 @@
+# BROWSER-RPG-SHEET
+The concept is to create a web application rpg character sheet to function like any other printed paper sheet without the need to erase Hit Points when taking damage or getting healed or at any other time the character gains a level and ability scores, skills etc are changed. Initially this "character sheet will be written for Pathfinder/ D&amp;D 3.5th Edition then expand onto other Editions (past and current D&amp;D systems) and other game systems.
